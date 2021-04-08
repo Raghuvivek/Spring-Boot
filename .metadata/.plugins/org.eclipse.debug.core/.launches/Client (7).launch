@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/ArrayDependencyInjection/src/test/Client.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test.Client"/>
+<stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="ArrayDependencyInjection"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="C:\Users\rvivek2\Documents\LOgs\PAT_logs_3rdjune2020\PLATINUM\ecarerest_4thjune_Platinum_bau 05-06-2020"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ArrayDependencyInjection"/>
+</launchConfiguration>

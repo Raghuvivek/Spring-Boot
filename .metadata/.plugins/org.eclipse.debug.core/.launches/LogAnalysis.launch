@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/LogAnalysis/src/com/log/analysis/LogAnalysis.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.log.analysis.LogAnalysis"/>
+<stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="LogAnalysis"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="C:\Users\rvivek2\Documents\LOgs\PAT_logs_3rdjune2020\PLATINUM\pat_logs_4thune2020\Pat_logs_29June_LT4.tar\Pat_logs_29June_LT4\newcologs C:\Users\rvivek2\Documents\LOgs\PAT_logs_3rdjune2020\PLATINUM\pat_logs_4thune2020\Pat_logs_29June_LT4.tar\Pat_logs_29June_LT4\newcologs 29-06-2020"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="LogAnalysis"/>
+</launchConfiguration>

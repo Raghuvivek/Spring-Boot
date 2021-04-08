@@ -1,0 +1,11 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"https://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+			<beans>
+				<bean id="t" class="beans.Test">
+					<property name ="name" value="Durga"/>
+					<property name ="age" value="23"/>
+					<property name ="email" value="durga@abc.com"/>
+				</bean>
+			
+			</beans>
